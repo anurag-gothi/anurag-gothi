@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-gothi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 **anurag-gothi/anurag-gothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 I am **Anurag Gothi** ,a 👨‍💻 MERN stack developer, and a Lifelong learner. I create  Projects that helps to solve Problems and make the world a better Place :) My dream is to make Projects that works in the cross domain of Science and Softwares
 
