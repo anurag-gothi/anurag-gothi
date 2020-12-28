@@ -22,7 +22,7 @@ I am **Anurag Gothi** ,a 👨‍💻 MERN stack developer, and a Lifelong learne
 - Linkedin :[Anurag Gothi](https://www.linkedin.com/in/anuraggothi/)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anurag-gothi&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anurag-gothi&count_private=true&show_icons=true&theme=vue)
 ---
 
 
